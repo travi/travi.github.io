@@ -1,0 +1,3 @@
+build: grunticon
+
+default: scsslint

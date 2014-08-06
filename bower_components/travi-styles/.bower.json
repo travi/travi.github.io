@@ -1,0 +1,19 @@
+{
+  "name": "travi-styles",
+  "version": "0.5.1",
+  "ignore": [
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "homepage": "https://github.com/travi/styles",
+  "_release": "0.5.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.5.1",
+    "commit": "632626c39cc55d7be04f64758bf9fd584c7c7f91"
+  },
+  "_source": "git://github.com/travi/styles.git",
+  "_target": "~0.5.1",
+  "_originalSource": "travi-styles",
+  "_direct": true
+}

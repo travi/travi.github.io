@@ -1,0 +1,7 @@
+allFiles: 
+  - 'scss/travi-*.scss'
+  - 'scss/ui/**/*.scss'
+options:
+  reporterOutput: 'logs/scss-lint.xml'
+  colorizeOutput: true
+  config: '.scss-lint.yml'
