@@ -1,0 +1,20 @@
+{
+  "name": "jekyll-site",
+  "version": "0.1.0",
+  "authors": [
+    "Matt Travi <programmer@travi.org>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-twbs": "~3.2.0+1",
+    "html5-boilerplate": "~4.3.0",
+    "modernizr": "~2.8.3",
+    "travi-styles": "~0.5.1"
+  }
+}
